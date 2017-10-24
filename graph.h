@@ -1,3 +1,4 @@
+//Inicializa matriz
 int** inicializarMatriz(int n){
     
     int** mat = (int**) malloc(n*sizeof(int*));
